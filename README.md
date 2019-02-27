@@ -1,5 +1,5 @@
 # Storing-and-Analysing-Storm-Data-with-PostgreSQL-on-AWS
-This project started on dataquest.io with a PostgreSQL DB set up on a local machine. No solution was provided.  After launching this DB on Amazon RDS and reading a few articles on the subject, I began analysing the storm data.  
+This project started out on dataquest.io with a PostgreSQL DB set up on a local machine. No solution was provided.  After launching this DB on Amazon RDS and reading a few articles on the subject, I began analysing the storm data.  
 
 Table of Contents  
 I) Creating a PostgreSQL DB Instance on Amazon RDS  
