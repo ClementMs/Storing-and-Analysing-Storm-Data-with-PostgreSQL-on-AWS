@@ -1,9 +1,9 @@
 # Storing-and-Analysing-Storm-Data-with-PostgreSQL-on-AWS
 
-This project started out on dataquest.io with a PostgreSQL DB set up on a local machine. No solution was provided.  After launching this DB on Amazon RDS and reading a few articles on the subject, I began analysing the storm data.  
-
 The dataset is limited to storms located in the North Atlantic and Easter Pacific basins between 1851 and 2008. 
 The storm data contained in the csv file can be found on the National Hurricane Center website (www.nhc.noaa.gov/). 
+
+This project started out on dataquest.io with a PostgreSQL DB set up on a local machine. No solution was provided.  After launching this DB on Amazon RDS and reading a few articles on the subject, I began analysing the storm data.  
 
 Table of Contents  
 I) Creating a PostgreSQL DB Instance on Amazon RDS  
